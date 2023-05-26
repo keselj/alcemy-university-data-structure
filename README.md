@@ -1,4 +1,4 @@
-# alcemy-university-data-structure
+# alchemy-university-data-structure
 
 ## Array Manipulation (2.111 - 2.146)
 Includes:
@@ -13,9 +13,9 @@ Includes:
 
 1. Recursion (2.151 - 2.155)
 2. Stacks (2.161 - 2.166)
-3. Lincked Lists (2.171 - 2.176)
+3. Linked Lists (2.171 - 2.176)
 
 ## Practice Problems (2.181)
-Practicing learned in above Includes following tasks:
+Practicing learned in above includes following tasks:
 
 1. Deep Retrieval (2.181)
